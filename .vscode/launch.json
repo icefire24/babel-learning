@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\packages\\examples\\index.js"
+            "program": "${workspaceFolder}\\packages\\examples\\plugins\\docPlugin.js"
         }
     ]
 }

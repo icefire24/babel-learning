@@ -96,6 +96,13 @@ traverse(ast,{
     nodetype(path.state){
         进行节点操作
     }
+    enter(path, state) {
+           console.log('enter>>>', path, state)
+      },
+     exit(path, state) {
+           console.log('exit>>>', path, state)
+      }
+
 })
 
 

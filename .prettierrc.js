@@ -1,4 +1,4 @@
-const myPlugin =require("./packages/examples/plugins/prettierPlugin")
-module.exports = {
-   plugins: [myPlugin], 
-}
+// const myPlugin =require("./packages/examples/plugins/prettierPlugin")
+// module.exports = {
+//    plugins: [myPlugin], 
+// }
